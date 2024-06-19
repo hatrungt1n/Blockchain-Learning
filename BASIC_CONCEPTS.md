@@ -69,7 +69,7 @@ Consensus mechanisms are protocols used by blockchain networks to achieve agreem
 - **Proof of Authority (PoA)**: Transactions are validated by a pre-approved group of nodes.
 - **Practical Byzantine Fault Tolerance (PBFT)**: Designed to tolerate Byzantine faults, ensuring consensus despite malicious actors.
 
-## Applications of Blockchain Technology
+<!-- ## Applications of Blockchain Technology
 
 Blockchain technology is used in various industries beyond cryptocurrencies, including:
 
@@ -77,11 +77,11 @@ Blockchain technology is used in various industries beyond cryptocurrencies, inc
 - **Supply Chain**: Tracking the provenance of goods, improving transparency.
 - **Healthcare**: Secure sharing of patient records, drug traceability.
 - **Voting**: Secure and transparent election systems.
-- **Real Estate**: Property records, automated transactions.
+- **Real Estate**: Property records, automated transactions. -->
 
 ## Further Reading
 
+- [Blockchain Basics](https://www.tutorialspoint.com/blockchain/index.htm)
 - [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 - [Mastering Bitcoin by Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
 - [Ethereum Whitepaper by Vitalik Buterin](https://ethereum.org/en/whitepaper/)
-- [Blockchain Basics by Daniel Drescher](https://www.springer.com/gp/book/9781484226032)
