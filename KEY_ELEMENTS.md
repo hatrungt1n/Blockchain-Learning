@@ -22,7 +22,7 @@
 ### Transaction Details (ex: [tx](https://etherscan.io/tx/0x8f82e6600fa7008c39ae714909efabbe2c97c7a5ba5cde45096cc820752f3984))
 
 - **Transaction Hash**: A unique identifier for the transaction.
-- **Status**: The status of the tx (ex: successful, pending or failed).
+- **Status**: The status of the tx (ex: success, pending or failed).
 - Block: The block that includes this transaction.
 - Timestamp: The time at which the transaction was processed.
 - From: The address that initiated the transaction.
