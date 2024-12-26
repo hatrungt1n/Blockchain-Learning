@@ -39,8 +39,8 @@
 
 ## Faucet links
 
-1. [BNB faucet](https://testnet.bnbchain.org/faucet-smart) (mainnet coin required :()
-2. [EVM faucet](https://faucets.chain.link/polygon-amoy) (mainnet coin required :()
+1. [BNB faucet](https://testnet.bnbchain.org/faucet-smart) (mainnet coin required ☹️)
+2. [EVM faucet](https://faucets.chain.link/polygon-amoy) (mainnet coin required ☹️)
 3. [Solana faucet](https://faucet.solana.com/)
 4. [BTC faucet](https://coinfaucet.eu/en/btc-testnet/)
 5. [ETH Sepolia faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
